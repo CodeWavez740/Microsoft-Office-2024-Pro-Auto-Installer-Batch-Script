@@ -1,6 +1,6 @@
 # Microsoft Office 2024 Professional Plus LTSC Installer
 
-This project simplifies the deployment of Microsoft Office 2024 Pro Plus LTSC (Long-Term Servicing Channel) using batch scripts and self-extracting executables. It adheres to guidelines from Microsoft’s official deployment documentation: [Deploy Office LTSC 2024](https://learn.microsoft.com/en-us/office/ltsc/2024/deploy).
+This project simplifies the deployment of Microsoft Office 2024 Pro Plus LTSC (Long-Term Servicing Channel) using batch scripts and self-extracting executables. It adheres to guidelines from Microsoft’s official deployment documentation: [Deploy Office LTSC 2024 Link](https://learn.microsoft.com/en-us/office/ltsc/2024/deploy).
 
 ---
 
